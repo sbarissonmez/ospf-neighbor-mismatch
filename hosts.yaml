@@ -1,0 +1,24 @@
+---
+CSR1:
+  hostname: "172.16.10.1"
+  username: "cisco"
+  password: "cisco"
+  port: 22
+  groups:
+    - cisco_group
+
+CSR2:
+  hostname: "172.16.10.2"
+  username: "cisco"
+  password: "cisco"
+  port: 22
+  groups:
+    - cisco_group
+
+CSR3:
+  hostname: "172.16.10.3"
+  username: "cisco"
+  password: "cisco"
+  port: 22
+  groups:
+    - cisco_group
